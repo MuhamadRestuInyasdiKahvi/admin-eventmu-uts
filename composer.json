@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.25",
+        "fusioncharts/fusionexport": "^2.0"
+    }
+}
